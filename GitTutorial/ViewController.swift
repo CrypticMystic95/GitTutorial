@@ -11,8 +11,6 @@ import UIKit
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
-        print("hello CS193P!")
-        print("Hello, world!")
         super.viewDidLoad()
       
     }
